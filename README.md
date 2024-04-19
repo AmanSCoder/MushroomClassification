@@ -1,5 +1,3 @@
-### README.md Content for GitHub Repository
-
 
 # Mushroom Classifier
 
@@ -38,6 +36,8 @@ python app.py
 
 Alternatively, you can access the deployed model directly via Hugging Face Spaces:
 [Mushroom Classifier on Hugging Face Spaces](https://huggingface.co/spaces/amanscoder/mushroomClassification)
+
+![Website Screenshot](ss.jpg)
 
 ## How It Works
 
