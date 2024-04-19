@@ -16,7 +16,6 @@ This repository contains all the code and data necessary for training and deploy
 - [How It Works](#how-it-works)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Installation
@@ -35,7 +34,7 @@ To run the Gradio interface locally and interact with the model:
 
 ```bash
 python app.py
-
+```
 
 Alternatively, you can access the deployed model directly via Hugging Face Spaces:
 [Mushroom Classifier on Hugging Face Spaces](https://huggingface.co/spaces/amanscoder/mushroomClassification)
@@ -85,3 +84,64 @@ To contribute to this project, please follow these steps:
 ```
 
 This README.md provides a comprehensive guide to your project, including how to install, use, and contribute to the repository. It also encapsulates the workflow and deployment of the model, ensuring that anyone on GitHub can understand and interact with your project effectively.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
