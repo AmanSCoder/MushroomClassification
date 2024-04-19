@@ -1,6 +1,6 @@
 ### README.md Content for GitHub Repository
 
-```markdown
+
 # Mushroom Classifier
 
 Welcome to the Mushroom Classifier GitHub repository! This project leverages a Support Vector Classifier (SVC) model to determine whether a mushroom is edible or poisonous based on its physical attributes. Developed with Python and deployed via Gradio on Hugging Face Spaces, this tool aims to provide an interactive and user-friendly way to promote safety and knowledge in mushroom foraging.
@@ -35,7 +35,7 @@ To run the Gradio interface locally and interact with the model:
 
 ```bash
 python app.py
-```
+
 
 Alternatively, you can access the deployed model directly via Hugging Face Spaces:
 [Mushroom Classifier on Hugging Face Spaces](https://huggingface.co/spaces/amanscoder/mushroomClassification)
