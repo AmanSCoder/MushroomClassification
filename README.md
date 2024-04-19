@@ -81,7 +81,6 @@ To contribute to this project, please follow these steps:
 - Thanks to the Python and Machine Learning communities for their invaluable resources and support.
 - Hugging Face Spaces for providing an excellent platform for deploying ML models.
 
-```
 
 This README.md provides a comprehensive guide to your project, including how to install, use, and contribute to the repository. It also encapsulates the workflow and deployment of the model, ensuring that anyone on GitHub can understand and interact with your project effectively.  
 
